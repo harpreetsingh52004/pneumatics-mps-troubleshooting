@@ -72,22 +72,6 @@ This is the exact loop you run in real commissioning. Practicing it on a familia
 
 ## Repo contents
 
-```
-.
-├── README.md
-├── mec355-circuits/
-│   ├── timed-press.md
-│   ├── sensor-gated-cylinder.md
-│   └── sequencing-with-limit-switches.md
-├── mec455-mps/
-│   ├── distribution-station.md
-│   ├── sorting-station.md
-│   ├── handling-station.md
-│   └── troubleshooting-discipline.md
-├── labs/                # MEC455 lab PDFs + MPS Stations Booklet
-└── assets/
-```
-
 > 🔗 **Related**: the MPS work in TIA555 also lives in [siemens-tia-suite](https://github.com/harpreetsingh52004/siemens-tia-suite) — that's the *programming* side; this repo is the *troubleshooting and pneumatic-design* side. Different angle on the same equipment.
 
 ---
